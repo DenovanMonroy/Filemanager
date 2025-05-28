@@ -51,6 +51,14 @@ com.example.filemanager/
 
 ## Capturas
 
+### Archivos
+![image](https://github.com/user-attachments/assets/3f75af64-411f-4b99-9cef-d833b63ae641)
+### Dispositivos Bluetooth
+![image](https://github.com/user-attachments/assets/697d0c74-0b09-438c-9986-0f9b9f6668f6)
+### Busqueda de dispositivos
+![image](https://github.com/user-attachments/assets/8c69c1c6-0c22-4fa1-885c-90eb44d9cdc6)
+
+
 ## Permisos necesarios
 
 La aplicación requiere los siguientes permisos:
